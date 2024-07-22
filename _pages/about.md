@@ -23,7 +23,7 @@ I am a proceeding Master's student  studying informatics at the University of Ha
 
 I have a keen interest in researching dexterous tool manipulation using multi-fingered hands. I have also published work on 6D pose estimation and am currently engaged in a project involving imitation learning.
 
-In addition to my academic pursuits, I have substantial experience with simulation environments, notably Isaac Sim/Gym and Mujoco. I am proficient in robot control using ROS and MoveIt and have practical experience working with the Shadowhand robot and its accompanying robotic arm. Furthermore, my background includes coursework in NLP, LLM, pattern recognition, and signal processing. I have also accumulated approximately two years of experience in industrial computer vision before my master's study.
+In addition to my academic pursuits, I have substantial experience with simulation environments, notably Isaac Sim/Gym and Mujoco. I am proficient in robot control using ROS and MoveIt and have practical experience working with the Shadowhand robot and its accompanying robotic arm. Furthermore, my other background includes in NLP, LLM, pattern recognition, and signal processing. I have accumulated approximately two years of experience in industrial computer vision before my master's study.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
