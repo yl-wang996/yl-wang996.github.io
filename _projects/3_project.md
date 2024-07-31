@@ -2,7 +2,7 @@
 layout: page
 title: BEV View Transform - LSS
 description: Self-study project
-img: assets/img/IPM_result.png
+img: assets/img/project3_car_seg.png
 importance: 1
 category: work
 related_publications: true
