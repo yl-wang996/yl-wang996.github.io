@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BEV Autonomous Driving - IPM
+title: BEV View Transform - IPM
 description: Self-study project
 img: assets/img/IPM_result.png
 importance: 1
@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 <h2>
-    Inverse Pespective Mappling(IPM)
+    BEV View Transform of ADS - Inverse Pespective Mappling(IPM)
 </h2>
 <div class="row">
     <div class="col-md-8 col-md-offset-2">
