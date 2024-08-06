@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marimbabot, A robotic music player
-description: Master's project
+description: Master project course
 img: assets/img/marimbabot_env.png
 importance: 1
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Simplify Tool Manipulation of Shadowhand based on 6D Pose Estimation
-description: Student reseach assistant project
+description: Student research assistant
 img: assets/img/project0_tooleenet_overview.png
 importance: 1
 category: work
