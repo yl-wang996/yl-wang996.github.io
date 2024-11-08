@@ -1,7 +1,7 @@
 ---
 layout: page
-title: VR_based Teleoperation in Sim and Real
-description: Self-study project
+title: VR-based Teleoperation in Sim and Real
+description: Internship at Agile Robot SE
 img: assets/img/project4_teleop_overview.png
 importance: 1
 category: work
